@@ -1,5 +1,5 @@
 # kubernetes-node-role
-Настраивает toleration и nodeAffinity для kube-dns, kube-proxy и kube-flannel-ds
+Настраивает toleration и nodeAffinity для kube-dns, kube-proxy, kube-flannel-ds, fluent, node-exporter
 
 Для настройки ежедневного автообновления:
 ```
